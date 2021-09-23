@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingLongRandPowerGiverPowerUpLabel>Increase power consumption by 100</LingLongRandPowerGiverPowerUpLabel>
+  <LingLongRandPowerGiverPowerUpDesc>The converted power is increased by 100Wd</LingLongRandPowerGiverPowerUpDesc>
+  <LingLongRandPowerGiverPowerDownLabel>Reduce power consumption by 100</LingLongRandPowerGiverPowerDownLabel>
+  <LingLongRandPowerGiverPowerDownDesc>
+The converted power is reduced by 100Wd</LingLongRandPowerGiverPowerDownDesc>
+  <FindNeederLabel>Find the receiving end</FindNeederLabel>
+  <FindNeederLabelDesc>Re-acquire available receivers, only the current map</FindNeederLabelDesc>
+  <UseNextNeederLabel>Switch receiver</UseNextNeederLabel>
+  <UseNextNeederDesc>Select the next available receiver from the currently acquired receiver list, the connected receiver will be skipped</UseNextNeederDesc>
+  <LinkMe>
+Transmitter number</LinkMe>
+  <CutLinkLabel>Cut the connection</CutLinkLabel>
+  <CutLinkDesc>Cut off the currently connected transmitter</CutLinkDesc>
+  <FindSomeNeeder>Found {0} available receivers</FindSomeNeeder>
+  <LinkNeederID>Receiver connected to</LinkNeederID>
+  <IdleCapacity>Backup power</IdleCapacity>
+</LanguageData>
