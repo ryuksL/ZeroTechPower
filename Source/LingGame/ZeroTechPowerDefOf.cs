@@ -1,17 +1,16 @@
 using RimWorld;
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+[DefOf]
+public static class ZeroTechPowerDefOf
 {
-    [DefOf]
-    public static class ZeroTechPowerDefOf
-    {
-        public static ThingDef LingTreadmill;
+    public static ThingDef LingTreadmill;
 
-        public static EffecterDef BrainBlood;
+    public static EffecterDef BrainBlood;
 
-        public static JobDef RunInTreadmill;
+    public static JobDef RunInTreadmill;
 
-        public static HediffDef LingThinkingLoss;
-    }
+    public static HediffDef LingThinkingLoss;
 }

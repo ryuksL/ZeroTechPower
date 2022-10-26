@@ -1,12 +1,11 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class CompProperties_PowerZeroTechInfiniteBattery : CompProperties
 {
-    public class CompProperties_PowerZeroTechInfiniteBattery : CompProperties
+    public CompProperties_PowerZeroTechInfiniteBattery()
     {
-        public CompProperties_PowerZeroTechInfiniteBattery()
-        {
-            compClass = typeof(CompPowerZeroTechInfiniteBattery);
-        }
+        compClass = typeof(CompPowerZeroTechInfiniteBattery);
     }
 }

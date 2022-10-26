@@ -1,13 +1,12 @@
 using RimWorld;
 
-namespace LingGame
+namespace LingGame;
+
+public class CompPowerPlantTreadmill : CompPowerPlant
 {
-    public class CompPowerPlantTreadmill : CompPowerPlant
+    public override void CompTickRare()
     {
-        public override void CompTickRare()
-        {
-            base.CompTickRare();
-            PowerOutput = 0f;
-        }
+        base.CompTickRare();
+        PowerOutput = 0f;
     }
 }

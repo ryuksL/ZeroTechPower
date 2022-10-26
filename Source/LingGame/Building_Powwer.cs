@@ -1,19 +1,18 @@
 using System.Linq;
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class Building_Powwer : Building
 {
-    public class Building_Powwer : Building
+    public override void Tick()
     {
-        public override void Tick()
+        base.Tick();
+        foreach (var item in Find.CurrentMap.listerBuildings.allBuildingsColonist)
         {
-            base.Tick();
-            foreach (var item in Find.CurrentMap.listerBuildings.allBuildingsColonist)
+            if (item.PowerComp != null)
             {
-                if (item.PowerComp != null)
-                {
-                    item.PowerComp.PowerNet.powerComps.First().PowerOn = true;
-                }
+                item.PowerComp.PowerNet.powerComps.First().PowerOn = true;
             }
         }
     }
