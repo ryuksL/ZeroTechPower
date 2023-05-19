@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingLongRandPowerGiver.label>Energy transmitters</LingLongRandPowerGiver.label>
+  <LingLongRandPowerGiver.description>A special device that converts electricity into a special wave that can be emitted and, with the right receiver, can transmit electricity remotely.</LingLongRandPowerGiver.description>
+  <LingLongRandPowerNeeder.label>Energy receivers</LingLongRandPowerNeeder.label>
+  <LingLongRandPowerNeeder.description>A special device that can receive an energy wave and convert it into electricity, due to technical limitations, while receiving only one band of signals</LingLongRandPowerNeeder.description>
+  <!--<LingLongRandPowerGiver_Blueprint.label>Energy transmitters(blueprint)</LingLongRandPowerGiver_Blueprint.label>-->
+  <!--<LingLongRandPowerGiver_Frame.label>Energy transmitters(Under construction)</LingLongRandPowerGiver_Frame.label>-->
+  <!--<LingLongRandPowerGiver_Frame.description>A special device can convert electricity into a special wave to emit it, and if there is a suitable receiving device, it can transmit power remotely</LingLongRandPowerGiver_Frame.description>-->
+  <!--<LingLongRandPowerNeeder_Blueprint.label>Energy receivers(blueprint)</LingLongRandPowerNeeder_Blueprint.label>-->
+  <!--<LingLongRandPowerNeeder_Frame.label>Energy receivers(Under construction)</LingLongRandPowerNeeder_Frame.label>-->
+  <!--<LingLongRandPowerNeeder_Frame.description>A special device that can receive an energy wave and convert it into electricity, due to technical limitations, can only accept signals in one band at the same time</LingLongRandPowerNeeder_Frame.description>-->
+</LanguageData>

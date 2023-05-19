@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingThinkingLoss.label>Thought disintegration</LingThinkingLoss.label>
+  <LingThinkingLoss.description>Decreased consciousness due to excessive brain use</LingThinkingLoss.description>
+  <LingThinkingLoss.stages.0.label>Mild</LingThinkingLoss.stages.0.label>
+  <LingThinkingLoss.stages.1.label>Mild</LingThinkingLoss.stages.1.label>
+  <LingThinkingLoss.stages.2.label>Moderate</LingThinkingLoss.stages.2.label>
+  <LingThinkingLoss.stages.3.label>Severe</LingThinkingLoss.stages.3.label>
+  <LingThinkingLoss.stages.4.label>Extreme</LingThinkingLoss.stages.4.label>
+</LanguageData>
