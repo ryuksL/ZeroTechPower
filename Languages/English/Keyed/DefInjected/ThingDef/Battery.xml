@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ZeroTechInfiniteBattery.label>Hyperspace battery</ZeroTechInfiniteBattery.label>
+  <ZeroTechInfiniteBattery.description>A low-intensity battery, the essence of a transmission device, when the energy is greater than 498wd will transmit energy, less than 50wd back, the theory can store unlimited energy, the explosion will release a great deal of energy.</ZeroTechInfiniteBattery.description>
+  <!--<ZeroTechInfiniteBattery_Blueprint_Install.label>Hyperspace battery (blueprint)</ZeroTechInfiniteBattery_Blueprint_Install.label>-->
+</LanguageData>
